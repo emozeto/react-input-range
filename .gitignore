@@ -2,5 +2,5 @@
 build
 coverage
 docs
-lib
+#lib
 node_modules
